@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".ini": true,
+        ".pio": true,
+        ".vscode": true
+    },
+    "hide-files.files": []
+}
