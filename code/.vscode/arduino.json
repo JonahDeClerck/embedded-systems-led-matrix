@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "led-matrix.ino",
+    "port": "COM7"
+}
